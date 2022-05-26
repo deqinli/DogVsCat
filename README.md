@@ -21,4 +21,9 @@ pytorch 使用AlexNet 实现猫狗二分类
 
 3-predict.py为预测文件
 
-4-
+4-数据集下载链接：
+链接1：https://pan.baidu.com/s/10OaB5AngPu9__7r7ykI7mQ?pwd=zf27 
+提取码：zf27 
+
+
+
